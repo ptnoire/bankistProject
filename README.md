@@ -15,6 +15,8 @@ This was originally presented as a google doc, I know that documentation should 
 
 **EDIT: DEC 9TH 2022, This readme is formatted so poorly I have to re-do it.**
 
+# Edit: Dec 9th, 2022, I forgot to mention what this was.. it's a banking app. That would be important to add in a readme don't you think? Yes well, I am learning. Please forgive me!
+
 It is presented as a single code block, then a dissect of each section that is important to give my thoughts on it.
 
 # Displaying the transactions (movements) on the DOM
