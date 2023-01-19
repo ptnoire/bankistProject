@@ -13,6 +13,7 @@ if this project is just a feature showcase. I have thoughts on how I can impleme
 
 This was originally presented as a google doc, I know that documentation should be written in code style, in the future I will keep this in mind.
 
+**EDIT: JAN 17TH, 2023, fixed this upload, added instructions on the front page so you can actually use it. Deleted older files for new ones.**
 **EDIT: DEC 9TH 2022, This readme is formatted so poorly I have to re-do it.**
 
 # Edit: Dec 9th, 2022, I forgot to mention what this was.. it's a banking app. That would be important to add in a readme don't you think? Yes well, I am learning. Please forgive me!
